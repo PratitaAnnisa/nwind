@@ -8,11 +8,11 @@
 </head>
 <body>
     <center> Kategori Produk </center>
-    <a href="index.php"> Home </a>
-    <a href="produk.php"> Kategori Produk </a> 
+    <a href="index.php"> Home </a> |
+    <a href="produk.php"> Kategori Produk </a> |
     <!-- <a href="supplier.php"> Supplier Produk </a> | -->
-    <a href="cust.php"> Daftar Customers </a> 
-    <a href="edit_profil.php"> Edit Profil </a> 
+    <a href="cust.php"> Daftar Customers </a> |
+    <a href="edit_profil.php"> Edit Profil </a> |
     <a href="logout.php">LOGOUT</a>
     <!-- <a href="detail.php"> Detail Order </a> -->
 <table border=1>
