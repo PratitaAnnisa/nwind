@@ -12,6 +12,7 @@
     <a href="produk.php"> Kategori Produk </a> |
     <!-- <a href="supplier.php"> Supplier Produk </a> | -->
     <a href="cust.php"> Daftar Customers </a> |
+    <a href="edit_profil.php"> Edit Profil </a>
     <!-- <a href="detail.php"> Detail Order </a> -->
     <a href="logout.php">LOGOUT</a>
 
